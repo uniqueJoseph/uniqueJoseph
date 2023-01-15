@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **uniqueJoseph/uniqueJoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Quotes 名人名言 --> <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=
+
+
+<h2 align="center">心之所向 素履以往 </h2>
